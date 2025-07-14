@@ -1,0 +1,10 @@
+
+
+.venv
+.ruff*
+
+.env*
+.claude
+
+__pycache__
+*.pyc
